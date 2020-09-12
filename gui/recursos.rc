@@ -1,0 +1,4 @@
+USERACCESS RCDATA "imagens/login.png"
+LOGINICON  RCDATA  "imagens/qricon.ico"
+QRCODE RCDATA "imagens/qrcode.png"
+
